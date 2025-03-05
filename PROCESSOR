@@ -1,0 +1,3 @@
+
+PROCESSOR_IDENTIFIER="gain"
+PROCESSOR_DESCRIPTION="Gain Processor for GPU Audio"
